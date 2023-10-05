@@ -1656,3 +1656,8 @@ button:focus, input:focus, textarea:focus {
   background-color: rgba(103,50,125,.05);
   border-radius: 3px;
 }
+/* .img-fluid{
+  max-width: 94%;
+  height: auto;
+  margin-left: -34px;
+} */
